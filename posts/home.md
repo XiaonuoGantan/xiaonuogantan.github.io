@@ -1,6 +1,7 @@
-# Welcome to AzerothJS!
-
-Welcome! AzerothJS is an open source blog engine running on static file servers such as Github Pages or any web hosting.
+# datasvm.io
+We build data platforms. datasvm.io is a global agency specialized
+in building data-focused web products and services for business, governments
+and the general public.
 
 ![](./img/azeroth_screenshot.png)
 
